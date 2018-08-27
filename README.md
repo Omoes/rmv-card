@@ -61,3 +61,6 @@ Add a custom element in your `ui-lovelace.yaml`
           - sensor.frankfurt_main_hauptbahnhof
 ```
 
+## Credits
+
+Thanks to [DavidMStraub](https://github.com/DavidMStraub) for all his initial work.
